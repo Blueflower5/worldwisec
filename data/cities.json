@@ -47,6 +47,66 @@
         "lng": "-2.13128394200588"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Alcoletge",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-25T20:14:03.405Z",
+      "notes": "as",
+      "position": {
+        "lat": "41.64007838467894",
+        "lng": "0.7250976562500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Les Fourgs",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-25T20:32:38.644Z",
+      "notes": "h",
+      "position": {
+        "lat": "46.86019101567027",
+        "lng": "6.416015625000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Les Fourgs",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-25T20:32:38.644Z",
+      "notes": "h",
+      "position": {
+        "lat": "46.86019101567027",
+        "lng": "6.416015625000001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Onesse-Laharie",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-25T20:32:38.644Z",
+      "notes": "h",
+      "position": {
+        "lat": "44.08758502824518",
+        "lng": "-1.0546875000000002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Onesse-Laharie",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-25T20:39:25.757Z",
+      "notes": "",
+      "position": {
+        "lat": "44.08758502824518",
+        "lng": "-1.0546875000000002"
+      },
+      "id": 98443203
     }
   ]
 }
