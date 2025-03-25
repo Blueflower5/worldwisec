@@ -107,6 +107,54 @@
         "lng": "-1.0546875000000002"
       },
       "id": 98443203
+    },
+    {
+      "cityName": "Velilla de los Ajos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-25T20:48:21.669Z",
+      "notes": "",
+      "position": {
+        "lat": "41.50857729743935",
+        "lng": "-2.2631835937500004"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Brieva de Cameros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-25T20:50:10.773Z",
+      "notes": "",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "-2.7465820312500004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Dehaj",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-03-25T20:52:12.729Z",
+      "notes": "",
+      "position": {
+        "lat": "30.939924331023445",
+        "lng": "54.53613281250001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Robaţ-e Sang",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-03-25T20:52:45.224Z",
+      "notes": "",
+      "position": {
+        "lat": "35.496456056584165",
+        "lng": "59.37011718750001"
+      },
+      "id": 98443207
     }
   ]
 }
