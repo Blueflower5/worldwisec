@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Loranca de Tajuna",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-26T21:22:28.474Z",
+      "notes": "",
+      "position": {
+        "lat": "40.413496049701955",
+        "lng": "-3.09814453125"
+      },
+      "id": 98443198
+    }
+  ]
 }
