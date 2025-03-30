@@ -11,6 +11,30 @@
         "lng": "-2.4169921875000004"
       },
       "id": 1
+    },
+    {
+      "cityName": "Marcheville",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-30T20:36:47.926Z",
+      "notes": "",
+      "position": {
+        "lat": "48.37084770238366",
+        "lng": "1.2084960937500002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Bilzen-Hoeselt",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2025-03-30T20:36:54.197Z",
+      "notes": "",
+      "position": {
+        "lat": "50.84757295365389",
+        "lng": "5.5810546875"
+      },
+      "id": 3
     }
   ]
 }
