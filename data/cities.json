@@ -1,16 +1,16 @@
 {
   "cities": [
     {
-      "cityName": "Loranca de Tajuna",
+      "cityName": "Soria",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-03-26T21:22:28.474Z",
-      "notes": "",
+      "date": "2025-03-30T19:35:41.859Z",
+      "notes": "as",
       "position": {
-        "lat": "40.413496049701955",
-        "lng": "-3.09814453125"
+        "lat": "41.75492216766298",
+        "lng": "-2.4169921875000004"
       },
-      "id": 98443198
+      "id": 1
     }
   ]
 }
