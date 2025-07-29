@@ -1,38 +1,38 @@
 {
   "cities": [
     {
-      "cityName": "Soria",
+      "cityName": "Carmenes",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2025-03-30T19:35:41.859Z",
-      "notes": "as",
+      "date": "2025-07-29T01:40:55.591Z",
+      "notes": "",
       "position": {
-        "lat": "41.75492216766298",
-        "lng": "-2.4169921875000004"
+        "lat": "42.97250158602597",
+        "lng": "-5.559082031250001"
       },
       "id": 1
     },
     {
-      "cityName": "Marcheville",
+      "cityName": "Lavigerie",
       "country": "France",
       "emoji": "🇫🇷",
-      "date": "2025-03-30T20:36:47.926Z",
+      "date": "2025-07-29T01:41:17.446Z",
       "notes": "",
       "position": {
-        "lat": "48.37084770238366",
-        "lng": "1.2084960937500002"
+        "lat": "45.10454630976873",
+        "lng": "2.7246093750000004"
       },
       "id": 2
     },
     {
-      "cityName": "Bilzen-Hoeselt",
-      "country": "Belgium",
-      "emoji": "🇧🇪",
-      "date": "2025-03-30T20:36:54.197Z",
+      "cityName": "Al Kharjah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-07-29T01:41:31.582Z",
       "notes": "",
       "position": {
-        "lat": "50.84757295365389",
-        "lng": "5.5810546875"
+        "lat": "24.627044746156027",
+        "lng": "30.124511718750004"
       },
       "id": 3
     }
